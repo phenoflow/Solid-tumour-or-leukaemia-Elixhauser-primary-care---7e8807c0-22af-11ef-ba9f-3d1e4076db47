@@ -1,0 +1,315 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-i2b2.js
+inputModule2:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mneoplasm---primary.py
+inputModule3:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mmelanoma---primary.py
+inputModule4:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mcystadenoma---primary.py
+inputModule5:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-madenosarcoma---primary.py
+inputModule6:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mmalignant---primary.py
+inputModule7:
+  class: File
+  path: python/pleural-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule8:
+  class: File
+  path: python/pelvic-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule9:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mcomedocarcinoma---primary.py
+inputModule10:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mskin---primary.py
+inputModule11:
+  class: File
+  path: python/pharyngeal-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule12:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-unspec---primary.py
+inputModule13:
+  class: File
+  path: python/hepatocellular-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule14:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-recurrence---primary.py
+inputModule15:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mmesothelioma---primary.py
+inputModule16:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mcarcinoma---primary.py
+inputModule17:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-sarcoma---primary.py
+inputModule18:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-angiosarcoma---primary.py
+inputModule19:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-metatarsal---primary.py
+inputModule20:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-ovary---primary.py
+inputModule21:
+  class: File
+  path: python/adenocarcinomatous-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule22:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mosteosarcoma---primary.py
+inputModule23:
+  class: File
+  path: python/mcarcinoid-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule24:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mpaget---primary.py
+inputModule25:
+  class: File
+  path: python/modontogenic-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule26:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mbile---primary.py
+inputModule27:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-cancer---primary.py
+inputModule28:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-leiomyosarcoma---primary.py
+inputModule29:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-madenoma---primary.py
+inputModule30:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-siewert---primary.py
+inputModule31:
+  class: File
+  path: python/central-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule32:
+  class: File
+  path: python/moxyphilic-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule33:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-myosarcoma---primary.py
+inputModule34:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-protuberan---primary.py
+inputModule35:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-minfantile---primary.py
+inputModule36:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-msarcoma---primary.py
+inputModule37:
+  class: File
+  path: python/mendometrioid-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule38:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-noninfiltrating---primary.py
+inputModule39:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-differentiated---primary.py
+inputModule40:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-chondrosarcoma---primary.py
+inputModule41:
+  class: File
+  path: python/mepithelioid-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule42:
+  class: File
+  path: python/villous-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule43:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-articulr---primary.py
+inputModule44:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-liver---primary.py
+inputModule45:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-spreading---primary.py
+inputModule46:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mgastrinoma---primary.py
+inputModule47:
+  class: File
+  path: python/pillar-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule48:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-dermatofibrosarcoma---primary.py
+inputModule49:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-retroperitoneum---primary.py
+inputModule50:
+  class: File
+  path: python/adenomatous-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule51:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-liposarcoma---primary.py
+inputModule52:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-medulla---primary.py
+inputModule53:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mcystosarcoma---primary.py
+inputModule54:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-carcinoma---primary.py
+inputModule55:
+  class: File
+  path: python/mameloblastic-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule56:
+  class: File
+  path: python/coccygeal-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule57:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mliposarcoma---primary.py
+inputModule58:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-fluid---primary.py
+inputModule59:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-islet---primary.py
+inputModule60:
+  class: File
+  path: python/large-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule61:
+  class: File
+  path: python/tympanic-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule62:
+  class: File
+  path: python/cerebral-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule63:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-septum---primary.py
+inputModule64:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-vestibule---primary.py
+inputModule65:
+  class: File
+  path: python/mpituitary-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule66:
+  class: File
+  path: python/malveolar-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule67:
+  class: File
+  path: python/occipital-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule68:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-msweat---primary.py
+inputModule69:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-vulva---primary.py
+inputModule70:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-teratoma---primary.py
+inputModule71:
+  class: File
+  path: python/cricoid-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule72:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-naevu---primary.py
+inputModule73:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-phalange---primary.py
+inputModule74:
+  class: File
+  path: python/immunoproliferative-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule75:
+  class: File
+  path: python/unknown-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule76:
+  class: File
+  path: python/independent-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule77:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-overlap---primary.py
+inputModule78:
+  class: File
+  path: python/intestinal-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule79:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-meatus---primary.py
+inputModule80:
+  class: File
+  path: python/autonomic-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule81:
+  class: File
+  path: python/intermediate-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule82:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-descending---primary.py
+inputModule83:
+  class: File
+  path: python/mmyxoid-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule84:
+  class: File
+  path: python/sacral-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule85:
+  class: File
+  path: python/mserous-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule86:
+  class: File
+  path: python/embryonal-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule87:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-mapocrine---primary.py
+inputModule88:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-fibrosarcoma---primary.py
+inputModule89:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-metaplasia---primary.py
+inputModule90:
+  class: File
+  path: python/mastoid-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule91:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-structure---primary.py
+inputModule92:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-retina---primary.py
+inputModule93:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-illdefined---primary.py
+inputModule94:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-related---primary.py
+inputModule95:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-[m]hepatoblastoma---primary.py
+inputModule96:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-appendix---primary.py
+inputModule97:
+  class: File
+  path: python/arytenoid-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule98:
+  class: File
+  path: python/msebaceous-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule99:
+  class: File
+  path: python/mfollicular-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule100:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-carina---primary.py
+inputModule101:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-cerebrum---primary.py
+inputModule102:
+  class: File
+  path: python/solid-tumour-or-leukaemia-elixhauser-primary-care-meninge---primary.py
+inputModule103:
+  class: File
+  path: python/mmucinous-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule104:
+  class: File
+  path: python/mtubular-solid-tumour-or-leukaemia-elixhauser-primary-care---primary.py
+inputModule105:
+  class: File
+  path: python/output-cases.py
